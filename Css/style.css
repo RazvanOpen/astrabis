@@ -99,9 +99,3 @@ h1, h2, h3 {
     background: var(--primary-color);
     color: white;
 }
-.wpforms-field {
-  border-radius: **7px**;
-}
-.wpforms-button {
-  border-radius: **5px**;
-}
